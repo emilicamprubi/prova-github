@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.contenedor-principal {
+  width: 600px;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  background-color: darkseagreen;
+
+}
